@@ -16,4 +16,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: 과제 전용 채점기 실행
-        uses: DKU-IRDM-Classroom/Test-Classroom-Test-Assignment-Python-Grader@v1
+        uses: DKU-IRDM-Classroom/Test-Classroom-Test-Assignment-Python-grader@v1
